@@ -1,0 +1,2 @@
+Sistem kullanicisinin adi:HannBLL
+Sistem Kullanicisinin adi: $ {user.username}
